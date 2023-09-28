@@ -1,2 +1,2 @@
-# Neuro Intelligence Computing & Engineering
+# NeuroIntelligence & Cognitive Engineering
 NICE Research Group, Xiamen University Malaysia
