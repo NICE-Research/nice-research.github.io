@@ -1124,9 +1124,12 @@ img {
   max-width: 100%;
   height: auto;
 }
-.img-rounded {
+
+/* .img-rounded {
   border-radius: 6px;
-}
+  border-radius: 50%;
+} */
+
 .img-thumbnail {
   display: inline-block;
   max-width: 100%;
